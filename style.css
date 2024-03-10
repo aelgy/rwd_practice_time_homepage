@@ -9,3 +9,8 @@ div.leftSide {
 #rightSideTitle {
   padding: 0px 16px;
 }
+
+.card-img-top {
+  max-width: 100%;
+  height: auto;
+}
